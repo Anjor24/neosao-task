@@ -8,12 +8,20 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
 
+<<<<<<< HEAD
 import 'package:speedometer/main.dart';
+=======
+import 'package:neosao_t/main.dart';
+>>>>>>> 980d2eb (Initial commit)
 
 void main() {
   testWidgets('Counter increments smoke test', (WidgetTester tester) async {
     // Build our app and trigger a frame.
+<<<<<<< HEAD
     await tester.pumpWidget(const MyApp());
+=======
+    await tester.pumpWidget( MyApp());
+>>>>>>> 980d2eb (Initial commit)
 
     // Verify that our counter starts at 0.
     expect(find.text('0'), findsOneWidget);

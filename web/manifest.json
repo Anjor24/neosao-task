@@ -1,6 +1,11 @@
 {
+<<<<<<< HEAD
     "name": "speedometer",
     "short_name": "speedometer",
+=======
+    "name": "neosao_t",
+    "short_name": "neosao_t",
+>>>>>>> 980d2eb (Initial commit)
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

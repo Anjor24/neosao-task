@@ -1,6 +1,10 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android">
     <application
+<<<<<<< HEAD
         android:label="speedometer"
+=======
+        android:label="neosao_t"
+>>>>>>> 980d2eb (Initial commit)
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity

@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 name: speedometer
+=======
+name: neosao_t
+>>>>>>> 980d2eb (Initial commit)
 description: "A new Flutter project."
 # The following line prevents the package from being accidentally published to
 # pub.dev using `flutter pub publish`. This is preferred for private packages.
@@ -35,7 +39,12 @@ dependencies:
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.
   cupertino_icons: ^1.0.6
+<<<<<<< HEAD
   syncfusion_flutter_gauges: ^28.1.36
+=======
+  http: ^1.2.2
+  provider: ^6.1.2
+>>>>>>> 980d2eb (Initial commit)
 
 dev_dependencies:
   flutter_test:
